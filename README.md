@@ -1,4 +1,4 @@
-# Monthly Forecast Demo
+# Monthly Forecast
 
 This repo shows a simple Python workflow for forecasting monthly values using Linear Regression.
 
